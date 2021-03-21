@@ -1,0 +1,12 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alejandro Ibarra <coodingalex@gmail.com>",
+  "license": "MIT"
+}
