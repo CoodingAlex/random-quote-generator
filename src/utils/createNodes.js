@@ -59,7 +59,6 @@ const createAuthorQuotesNode = (loadData, appNode, author) => {
 
       listItemsQuotes.push(quoteContainer)
     })
-    console.log(listItemsQuotes)
     listOfQuotes.append(...listItemsQuotes)
 
     appNode.append(authorNameTitle, listOfQuotes)
